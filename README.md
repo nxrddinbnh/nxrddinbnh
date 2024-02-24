@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to NixiusDev's World! 🌹</h1>
+<h1 align="left">Welcome to NixiusDev's World! 🌹</h1>
 
 <div align="center">
   <img src="nixiusdev-header.gif" alt="Nixius">
