@@ -22,3 +22,9 @@ Hello everyone! I'm **NixiusDev**, but away from the screen, people call me **No
 ![photoshop](https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=Adobe%20Photoshop&style=for-the-badge&logoColor=white)
 ![aftereffects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+<br>
+
+```
+nxrddinbenhadi@gmail.com
+```
