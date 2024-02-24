@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-Hey there! I'm NixiusDev, a creative enthusiast specializing in graphic design and web development. With a keen eye for detail and a love for innovation, I strive to craft captivating visual experiences that leave a lasting impression.
+Hello everyone! I'm **NixiusDev**, but away from the screen, people call me **Nourddin**. I love delving into the realm of design and coding, where I can unleash my creativity and turn ideas into reality. Whether it's crafting sleek user interfaces or bringing illustrations to life, I'm always eager to take on a challenge and conquer it with enthusiasm.
 
 ## Skills
 
