@@ -17,6 +17,7 @@ Hello everyone! I'm **NixiusDev**, but away from the screen, people call me **No
 ![c](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white)
 ![c++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&style=for-the-badge&logoColor=white)
 ![c#](https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white)
+![astro](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
 ![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&style=for-the-badge&logoColor=white)
 ![git](https://img.shields.io/badge/-GIT-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![photoshop](https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=Adobe%20Photoshop&style=for-the-badge&logoColor=white)
