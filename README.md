@@ -12,8 +12,6 @@ Hello everyone! I'm **NixiusDev**, but away from the screen, people call me **No
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
 ![css3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=for-the-badge&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/-TAILWIND%20CSS-38B2AC?logo=Tailwind%20CSS&style=for-the-badge&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![php](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white)
 ![c](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white)
 ![c++](https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&style=for-the-badge&logoColor=white)
 ![c#](https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white)
