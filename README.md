@@ -1,11 +1,11 @@
-<h1 align="left">Welcome to <a href="https://linktr.ee/nixiusdev_">nxrddin</a>'s World! 🌹</h1>
+<h1 align="left">Welcome to <a href="https://linktr.ee/nixiusdev_">nxrddin</a>'s World! 🥀</h1>
 
 <div align="center">
   <img src="nixiusdev-header.gif" alt="Nixius">
 </div>
 
 ## About Me
-Hello everyone! I'm **nxrddinbnh**, but away from the screen, people call me **Nourddin**. I love delving into the realm of design and coding, where I can unleash my creativity and turn ideas into reality. Whether it's crafting sleek user interfaces or bringing illustrations to life, I'm always eager to take on a challenge and conquer it with enthusiasm.
+Hello everyone! I'm **Nourddin Benhadi**. I love delving into the realm of design and coding, where I can unleash my creativity and turn ideas into reality. Whether it's crafting sleek user interfaces or bringing illustrations to life, I'm always eager to take on a challenge and conquer it with enthusiasm.
 
 ## Skills
 
