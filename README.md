@@ -1,7 +1,7 @@
 <h1 align="left">Welcome to <a href="https://linktr.ee/nixiusdev_">nxrddin</a>'s World! 🥀</h1>
 
 <div align="center">
-  <img src="nixiusdev-header.gif" alt="Nixius">
+  <img src="nxrddinbnh-header.gif" alt="Nixius">
 </div>
 
 ## About Me
