@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to <a href="https://linktr.ee/nixiusdev_">nxrddin</a>'s World! 🥀</h1>
+<h1 align="left">Welcome to <a href="https://linktr.ee/nxrddinbnh">nxrddin</a>'s World! 🥀</h1>
 
 <div align="center">
   <img src="nxrddinbnh-header.gif" alt="Nixius">
